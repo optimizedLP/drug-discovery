@@ -36,17 +36,7 @@ Tunes hyperparameters for better performance.
 Model Performance
 Mean Squared Error (MSE): 0.0844
 
-Interpretation: The model's predictions are, on average, ~0.29 units away from the true binding affinity values (since 
-0.0844
-≈
-0.29.
-
-### Visualizations
-Molecular Graphs:
-Molecular Graphs
-
-Feature Importance:
-Feature Importance
+Interpretation: The model's predictions are, on average, ~0.29 units away from the true binding affinity values.
 
 ### Future Work
 1. Improve Synthetic Data
