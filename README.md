@@ -1,4 +1,4 @@
-## Predicting Protein-Ligand Binding Affinity Using Graph Neural Networks (GNNs)
+## Predicting Protein-Ligand Binding Affinity Using GNNs
 
 This project focuses on predicting protein-ligand binding affinity using Graph Neural Networks (GNNs). It demonstrates how to generate synthetic ligand molecules, represent them as graphs, and train a GNN model to predict binding affinity. The project also includes visualizations, feature importance analysis, and hyperparameter tuning.
 
@@ -39,10 +39,7 @@ Mean Squared Error (MSE): 0.0844
 Interpretation: The model's predictions are, on average, ~0.29 units away from the true binding affinity values (since 
 0.0844
 ≈
-0.29
-0.0844
-​
- ≈0.29).
+0.29.
 
 ### Visualizations
 Molecular Graphs:
@@ -52,19 +49,10 @@ Feature Importance:
 Feature Importance
 
 ### Future Work
-1. Improve Synthetic Data:
-Use physics-based simulations for more realistic binding affinities.
-Include protein features in the dataset.
-
-2. Experiment with GNN Architectures:
-Try Graph Attention Networks (GAT) or Graph Isomorphism Networks (GIN).
-
-3. Hyperparameter Optimization:
-Use Bayesian optimization or grid search for better hyperparameter tuning.
-
-4. Deploy the Model:
-Create a web app for predicting binding affinity using the trained model.
-
+1. Improve Synthetic Data
+2. Experiment with GNN Architectures
+3. Hyperparameter Optimization
+4. Deploy the Model
 
 ### Acknowledgements
 RDKit: For molecular representation and visualization.
