@@ -1,6 +1,7 @@
 ## Predicting Protein-Ligand Binding Affinity Using GNNs
 
-This project focuses on predicting protein-ligand binding affinity using Graph Neural Networks (GNNs). It demonstrates how to generate synthetic ligand molecules, represent them as graphs, and train a GNN model to predict binding affinity. The project also includes visualizations, feature importance analysis, and hyperparameter tuning.
+- This project focuses on predicting protein-ligand binding affinity using Graph Neural Networks (GNNs). 
+- It demonstrates how to generate synthetic ligand molecules, represent them as graphs, and train a GNN model to predict binding affinity. 
 
 
 ### Project Overview
