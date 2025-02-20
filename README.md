@@ -6,8 +6,8 @@
 
 ### Project Overview
 
-What is Protein-Ligand Binding Affinity?
-Protein-ligand binding affinity measures how strongly a small molecule (ligand) binds to a protein target. It is a key metric in drug discovery, as high-affinity binding is often required for a drug to be effective.
+* What is Protein-Ligand Binding Affinity?
+* -> Protein-ligand binding affinity measures how strongly a small molecule (ligand) binds to a protein target. It is a key metric in drug discovery, as high-affinity binding is often required for a drug to be effective.
 
 What Does This Project Do?
 
