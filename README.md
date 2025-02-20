@@ -45,5 +45,5 @@ Interpretation: The model's predictions are, on average, ~0.29 units away from t
 4. Deploy the Model
 
 ### Acknowledgements
-RDKit: For molecular representation and visualization.
-PyTorch Geometric: For GNN implementation.
+* RDKit: For molecular representation and visualization.
+* PyTorch Geometric: For GNN implementation.
