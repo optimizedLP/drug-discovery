@@ -41,12 +41,6 @@ Interpretation: The model's predictions are, on average, ~0.29 units away from t
 
 ### Future Work
 1. Improve Synthetic Data
-2. Experiment with GNN Architectures:
-3. Hyperparameter Optimization:
-4. Deploy the Model:
-
-
-1. Improve Synthetic Data
 2. Experiment with GNN Architectures
 3. Hyperparameter Optimization
 4. Deploy the Model
