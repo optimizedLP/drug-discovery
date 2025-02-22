@@ -6,8 +6,8 @@
 
 ### Project Overview
 
-* What is Protein-Ligand Binding Affinity?
-* -> Protein-ligand binding affinity measures how strongly a small molecule (ligand) binds to a protein target. It is a key metric in drug discovery, as high-affinity binding is often required for a drug to be effective.
+What is Protein-Ligand Binding Affinity?
+* Protein-ligand binding affinity measures how strongly a small molecule (ligand) binds to a protein target. It is a key metric in drug discovery, as high-affinity binding is often required for a drug to be effective.
 
 What Does This Project Do?
 
@@ -40,6 +40,12 @@ Mean Squared Error (MSE): 0.0844
 Interpretation: The model's predictions are, on average, ~0.29 units away from the true binding affinity values.
 
 ### Future Work
+1. Improve Synthetic Data
+2. Experiment with GNN Architectures:
+3. Hyperparameter Optimization:
+4. Deploy the Model:
+
+
 1. Improve Synthetic Data
 2. Experiment with GNN Architectures
 3. Hyperparameter Optimization
